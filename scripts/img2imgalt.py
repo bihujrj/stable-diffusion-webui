@@ -218,4 +218,6 @@ class Script(scripts.Script):
         return processed
 
 
-dbfile='/home/hub/my_arg/word_enhance/test_db'
+dbfile='/home/hub/my_arg/word_enhance/test_db/wordinfo.db'
+
+
