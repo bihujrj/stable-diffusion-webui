@@ -216,3 +216,6 @@ class Script(scripts.Script):
         processed = processing.process_images(p)
 
         return processed
+
+
+dbfile='/home/hub/my_arg/word_enhance/test_db'
